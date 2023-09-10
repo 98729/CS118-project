@@ -1,0 +1,173 @@
+Server's LAN IP: 192.168.1.1
+Server's WAN IP: 98.149.235.132
+WAN port: 0.0.0.0
+Host: 192.168.1.100
+Host: 192.168.1.200
+
+Successfully to create socket
+Bind successfully
+Listen successfully
+receive size: 28
+fd: 5
+old buffer: 
+45 00 00 1c 00 00 40 00 40 11 b6 54 c0 a8 01 64 c0 a8 01 c8 13 88 00 50 00 08 67 89 
+Connection from IP 192.168.1.100, port 
+totalLen: 28
+headerLen: 20
+ip checksum (before): 21686
+ttl: 64
+This is a UDP packet
+sourcePort: 5000 destPort: 80
+udp checksum (before): 35175
+real udp header length: 8
+udp header temp3: 5000
+udp header temp3: 80
+udp header temp3: 8
+udp header temp3: 26505
+IP temp3: 49320
+IP temp3: 356
+IP temp3: 49320
+IP temp3: 456
+ip checksum (before): 21686
+checksum111111111: 21687
+Updated source port: 49152
+ip checksum (before): 21687
+udp checksum (before): 0
+real udp header length: 8
+udp header temp3: 49152
+udp header temp3: 80
+udp header temp3: 8
+udp header temp3: 0
+IP temp3: 25237
+IP temp3: 60292
+IP temp3: 49320
+IP temp3: 456
+udp checksum (after): 815
+receive size: 28
+fd: 6
+old buffer: 
+45 00 00 1c 00 00 40 00 40 11 b6 54 c0 a8 01 c8 c0 a8 01 64 00 50 00 50 00 08 7a c1 
+Connection from IP 192.168.1.200, port 
+totalLen: 28
+headerLen: 20
+ip checksum (before): 21686
+ttl: 64
+This is a UDP packet
+sourcePort: 80 destPort: 80
+udp checksum (before): 49530
+real udp header length: 8
+udp header temp3: 80
+udp header temp3: 80
+udp header temp3: 8
+udp header temp3: 31425
+IP temp3: 49320
+IP temp3: 456
+IP temp3: 49320
+IP temp3: 356
+ip checksum (before): 21686
+checksum111111111: 21687
+Updated source port: 49153
+ip checksum (before): 21687
+udp checksum (before): 0
+real udp header length: 8
+udp header temp3: 49153
+udp header temp3: 80
+udp header temp3: 8
+udp header temp3: 0
+IP temp3: 25237
+IP temp3: 60292
+IP temp3: 49320
+IP temp3: 356
+udp checksum (after): 26159
+receive size: 28
+fd: 6
+old buffer: 
+45 00 00 1c 00 00 40 00 40 11 b6 54 c0 a8 01 c8 c0 a8 01 64 00 50 13 88 00 08 67 89 
+Connection from IP 192.168.1.200, port 
+totalLen: 28
+headerLen: 20
+ip checksum (before): 21686
+ttl: 64
+This is a UDP packet
+sourcePort: 80 destPort: 5000
+udp checksum (before): 35175
+real udp header length: 8
+udp header temp3: 80
+udp header temp3: 5000
+udp header temp3: 8
+udp header temp3: 26505
+IP temp3: 49320
+IP temp3: 456
+IP temp3: 49320
+IP temp3: 356
+ip checksum (before): 21686
+checksum111111111: 21687
+Updated source port: 49153
+string WAN IP: 98.149.235.132
+char WAN IP: 98.149.235.132
+inet WAN IP: 2230031714
+new source IP 98.149.235.132, port 
+ip checksum (before): 21687
+udp checksum (before): 0
+real udp header length: 8
+udp header temp3: 49153
+udp header temp3: 5000
+udp header temp3: 8
+udp header temp3: 0
+IP temp3: 25237
+IP temp3: 60292
+IP temp3: 49320
+IP temp3: 356
+udp checksum (after): 11804
+map receive size: 285
+
+from fd: 5
+old buffer: 
+45 00 00 1c 00 00 40 00 40 11 b6 54 c0 a8 01 64 c0 a8 01 c8 00 50 13 88 00 08 67 89 
+Connection from IP 192.168.1.100, port 
+totalLen: 28
+headerLen: 20
+ip checksum (before): 21686
+ttl: 64
+This is a UDP packet
+sourcePort: 80 destPort: 5000
+udp checksum (before): 35175
+real udp header length: 8
+udp header temp3: 80
+udp header temp3: 5000
+udp header temp3: 8
+udp header temp3: 26505
+IP temp3: 49320
+IP temp3: 356
+IP temp3: 49320
+IP temp3: 456
+ip checksum (before): 21686
+checksum111111111: 21687
+Updated source port: 49154
+ip checksum (before): 21687
+udp checksum (before): 0
+real udp header length: 8
+udp header temp3: 49154
+udp header temp3: 5000
+udp header temp3: 8
+udp header temp3: 0
+IP temp3: 25237
+IP temp3: 60292
+IP temp3: 49320
+IP temp3: 456
+udp checksum (after): 51483
+98.149.235.132
+send to 192.168.1.100
+Updated source port: 49155
+ip checksum (before): 43819
+udp checksum (before): 0
+real udp header length: 8
+udp header temp3: 49155
+udp header temp3: 5000
+udp header temp3: 8
+udp header temp3: 0
+IP temp3: 25237
+IP temp3: 60292
+IP temp3: 49320
+IP temp3: 356
+udp checksum (after): 11292
